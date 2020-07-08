@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Love Rust, linux, materials science, nanotech, and music! Always learning
+Love Rust, linux, materials science, nanotech
 
 <!--
 **pecusys/pecusys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
